@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋, I'm Kartik Kapkoti  
 
-<!--
-**KartikKapkoti/KartikKapkoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | React Native | React | Node.js  
 
-Here are some ideas to get you started:
+I’m a Software Developer with 1.8+ years of experience building scalable mobile and web applications. I enjoy creating user-centric solutions and exploring modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack  
+- **Languages:** JavaScript, TypeScript, Kotlin, Swift  
+- **Frontend:** React, React Native, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js, FastAPI  
+- **Database:** PostgreSQL, Supabase  
+- **Tools:** Git, AWS, Postman, Xcode, Android Studio  
+
+---
+
+### 💼 Experience  
+- 📱 Built AI-powered cross-platform keyboard apps  
+- 🛒 Developed & optimized e-commerce platforms  
+- 🔐 Created secure REST APIs with FastAPI & PostgreSQL  
+
+---
+
+### 📫 Connect with me  
+- 🌐 Portfolio: https://kartik-kapkoti.netlify.app/   
+- 📧 Email: kartikkapkoti545@gmail.com  
+
+---
+
+⭐ Always learning. Always building.
